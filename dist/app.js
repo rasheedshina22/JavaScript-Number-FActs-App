@@ -18,7 +18,7 @@ function fetchFact() {
                 fact.style.display = 'none';
             }
         })
-        .catch(function () { 
+        .catch(function (err) { 
             console.log(err);
         });
     
