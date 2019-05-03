@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/rasheedshina22/JavaScript-Number-FActs-App/issues"
   },
-  "homepage": "https://github.com/rasheedshina22/JavaScript-Number-FActs-App",
+  "homepage": "https://github.com/rasheedshina22/numberFactsApp",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
