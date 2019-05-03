@@ -6,7 +6,7 @@ numberInput.addEventListener('input', fetchFact)
 
 function fetchFact() {
     const number = numberInput.value;
-    fetch(`http://numbersapi.com/${number}`)
+    fetch(`https://numbersapi.com/${number}`)
         .then(function (res) {
             return res.text();
         })
